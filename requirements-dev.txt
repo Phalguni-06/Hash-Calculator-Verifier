@@ -1,0 +1,2 @@
+# Optional development/test tooling
+pytest>=8,<9
