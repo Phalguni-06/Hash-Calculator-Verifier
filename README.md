@@ -1,4 +1,4 @@
-# 🔐 Hash Calculator & Verifier — Professional Edition
+# 🔐 Hash Calculator & Verifier
 
 A lightweight Python command-line utility for cryptographic hashing, file-integrity verification, hash comparison, HMAC, salted hashing, benchmarking, and algorithm/security guidance.
 
@@ -167,6 +167,14 @@ MIT License — see `LICENSE`.
 
 ## 👤 Author
 
-Malla Phalguni
+**Phalguni Malla**
 
+GitHub: [@Phalguni-06](https://github.com/Phalguni-06)
 
+Repository: [Hash-Calculator-Verifier](https://github.com/Phalguni-06/Hash-Calculator-Verifier)
+
+---
+
+## ⭐ Support
+
+If you find this project useful for learning Python or cybersecurity, consider giving the repository a ⭐ on GitHub.
