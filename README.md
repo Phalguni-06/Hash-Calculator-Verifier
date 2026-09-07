@@ -167,4 +167,6 @@ MIT License — see `LICENSE`.
 
 ## 👤 Author
 
-M Jayanth Vinay
+Malla Phalguni
+
+
